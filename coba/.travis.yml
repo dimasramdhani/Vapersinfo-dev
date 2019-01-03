@@ -11,3 +11,8 @@ before_script:
 
 script:
   - vendor/bin/phpunit
+  
+language: ruby
+rvm:
+ - 2.2
+ - jruby
