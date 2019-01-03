@@ -50,4 +50,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 ## TRIGER
-[![Build Status](https://travis-ci.org/dimasramdhani/Vapersinfo-dev.svg?branch=master)](https://travis-ci.org/dimasramdhani/Vapersinfo-dev)
+[![Build Status](https://travis-ci.com/dimasramdhani/Vapersinfo-dev.svg?branch=master)](https://travis-ci.com/dimasramdhani/Vapersinfo-dev)
